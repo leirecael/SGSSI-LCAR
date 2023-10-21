@@ -1,4 +1,5 @@
-Está escrito en python. 
+Está escrito en python. Descarga el programa que quieras usar o copia su código.
+
 Lab05 crea un archivo en el que mete una linea extra que cumple ciertas características.
 
 Lab06 usando un archivo principal y una lista de archivos mira que la lista cumple las condiciones.
